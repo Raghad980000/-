@@ -1,0 +1,6 @@
+Guest_ID,Guest_Name,Phone_Number,Check_In_Time,Check_Out_Time,Guests
+1,Ahmed Ali,551234567,12:00:00 AM,12:00:00 AM,1
+2,Sarah Khan,559876543,12:00:00 AM,12:00:00 AM,2
+3,Mohammed Saad,504567891,12:00:00 AM,12:00:00 AM,4
+4,Lina Hassan,532223344,12:00:00 AM,12:00:00 AM,5
+5,Omar Faisal,547778899,12:00:00 AM,12:00:00 AM,2
